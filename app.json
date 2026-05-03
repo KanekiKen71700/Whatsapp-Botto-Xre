@@ -1,5 +1,5 @@
 {
-  "name": "WhatsApp-Botto-xRe",
+  "name": "ROSE-XIII  BOT",
   "description": "Well....",
   "keywords": [
     "bot",
@@ -11,16 +11,16 @@
     "whatsapp-anime-bot",
     "whatsapp-botto"
   ],
-  "website": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre#readme",
-  "repository": "https://github.com/Synthesized-Infinity/Whatsapp-Botto-Xre.git",
-  "logo": "https://i.ibb.co/F3sc7Nb/Purple-Music-Store-Etsy-Banner.png",
+  "website": "no",
+  "repository": "Huh",
+  "logo": "<a href="https://ibb.co/B2grjVKX"><img src="https://i.ibb.co/ZzhYK61n/11e947620a4cf9671d5d88fe141019b7.jpg" alt="11e947620a4cf9671d5d88fe141019b7" border="0"></a>",
   "success_url": "/",
   "env": {
     "BOT_NAME": {
-      "description": "Name of your bot"
+      "description": "Hi"
     },
     "PREFIX": {
-      "description": "Prefix of your bot"
+      "description": "ROSE"
     },
     "CRON": {
       "description": "\"Cron\" string to clear all chats of the bot at specified time",
@@ -30,7 +30,7 @@
       "description": "A string for the session to be classified and to get access to the server endpoints"
     },
     "ADMINS": {
-      "description": "The phone numbers of the users who you want to be admin for the bot (separated by a comma \",\")",
+      "description": "+201001103923",
       "required": false
     },
     "MONGO_URI": {
